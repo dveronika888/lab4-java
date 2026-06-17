@@ -1,2 +1,2 @@
 # lab4-java
-Lab №4 Java
+Who wants to be a millionaire&
